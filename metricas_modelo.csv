@@ -1,0 +1,12 @@
+,valor
+n_train,9.0
+n_test,6.0
+rango_x_train,"(np.float64(4.9974), np.float64(15.0229))"
+rango_x_test,"(np.float64(4.9982), np.float64(15.024))"
+b0,24.0844
+b1,0.3582
+MAE,6.2936
+RMSE,7.3896
+R2,0.1917
+MAE_base_mediana,9.3333
+R2_train,0.0086
